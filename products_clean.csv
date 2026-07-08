@@ -1,0 +1,91 @@
+Product_ID,Product_Name,Category,Sub_Category,Cost_Price
+P001,Laptop 1,Electronics,Laptop,5700
+P002,Laptop 2,Electronics,Laptop,2887
+P003,Laptop 3,Electronics,Laptop,14647
+P004,Mouse 1,Electronics,Mouse,6251
+P005,Mouse 2,Electronics,Mouse,2736
+P006,Mouse 3,Electronics,Mouse,12092
+P007,Keyboard 1,Electronics,Keyboard,1328
+P008,Keyboard 2,Electronics,Keyboard,9062
+P009,Keyboard 3,Electronics,Keyboard,14814
+P010,Monitor 1,Electronics,Monitor,1625
+P011,Monitor 2,Electronics,Monitor,5636
+P012,Monitor 3,Electronics,Monitor,9832
+P013,Printer 1,Electronics,Printer,10153
+P014,Printer 2,Electronics,Printer,14734
+P015,Printer 3,Electronics,Printer,8009
+P016,Headphones 1,Electronics,Headphones,11642
+P017,Headphones 2,Electronics,Headphones,607
+P018,Headphones 3,Electronics,Headphones,7166
+P019,Tablet 1,Electronics,Tablet,10809
+P020,Tablet 2,Electronics,Tablet,2803
+P021,Tablet 3,Electronics,Tablet,10050
+P022,Camera 1,Electronics,Camera,14677
+P023,Camera 2,Electronics,Camera,7213
+P024,Camera 3,Electronics,Camera,2673
+P025,Speaker 1,Electronics,Speaker,977
+P026,Speaker 2,Electronics,Speaker,1759
+P027,Speaker 3,Electronics,Speaker,5524
+P028,Router 1,Electronics,Router,3467
+P029,Router 2,Electronics,Router,3212
+P030,Router 3,Electronics,Router,6805
+P031,Office Chair 1,Furniture,Office Chair,11522
+P032,Office Chair 2,Furniture,Office Chair,9178
+P033,Office Chair 3,Furniture,Office Chair,11929
+P034,Study Table 1,Furniture,Study Table,12059
+P035,Study Table 2,Furniture,Study Table,8949
+P036,Study Table 3,Furniture,Study Table,4446
+P037,Bookshelf 1,Furniture,Bookshelf,10923
+P038,Bookshelf 2,Furniture,Bookshelf,4712
+P039,Bookshelf 3,Furniture,Bookshelf,4972
+P040,Sofa 1,Furniture,Sofa,3991
+P041,Sofa 2,Furniture,Sofa,1671
+P042,Sofa 3,Furniture,Sofa,913
+P043,Bed 1,Furniture,Bed,6537
+P044,Bed 2,Furniture,Bed,9467
+P045,Bed 3,Furniture,Bed,9105
+P046,Cabinet 1,Furniture,Cabinet,13860
+P047,Cabinet 2,Furniture,Cabinet,8143
+P048,Cabinet 3,Furniture,Cabinet,2616
+P049,Desk 1,Furniture,Desk,993
+P050,Desk 2,Furniture,Desk,6011
+P051,Desk 3,Furniture,Desk,162
+P052,Stool 1,Furniture,Stool,7105
+P053,Stool 2,Furniture,Stool,1535
+P054,Stool 3,Furniture,Stool,4925
+P055,Wardrobe 1,Furniture,Wardrobe,13598
+P056,Wardrobe 2,Furniture,Wardrobe,10946
+P057,Wardrobe 3,Furniture,Wardrobe,10341
+P058,Dining Table 1,Furniture,Dining Table,9933
+P059,Dining Table 2,Furniture,Dining Table,7969
+P060,Dining Table 3,Furniture,Dining Table,3371
+P061,Notebook 1,Stationery,Notebook,1689
+P062,Notebook 2,Stationery,Notebook,521
+P063,Notebook 3,Stationery,Notebook,3490
+P064,Pen Pack 1,Stationery,Pen Pack,2898
+P065,Pen Pack 2,Stationery,Pen Pack,10556
+P066,Pen Pack 3,Stationery,Pen Pack,4881
+P067,Markers 1,Stationery,Markers,1442
+P068,Markers 2,Stationery,Markers,7858
+P069,Markers 3,Stationery,Markers,13924
+P070,Files 1,Stationery,Files,1992
+P071,Files 2,Stationery,Files,5152
+P072,Files 3,Stationery,Files,12959
+P073,Stapler 1,Stationery,Stapler,6612
+P074,Stapler 2,Stationery,Stapler,7815
+P075,Stapler 3,Stationery,Stapler,8113
+P076,Diary 1,Stationery,Diary,14761
+P077,Diary 2,Stationery,Diary,10930
+P078,Diary 3,Stationery,Diary,4441
+P079,Calculator 1,Stationery,Calculator,1593
+P080,Calculator 2,Stationery,Calculator,10616
+P081,Calculator 3,Stationery,Calculator,9014
+P082,Envelope 1,Stationery,Envelope,6449
+P083,Envelope 2,Stationery,Envelope,3129
+P084,Envelope 3,Stationery,Envelope,6178
+P085,Paper 1,Stationery,Paper,14607
+P086,Paper 2,Stationery,Paper,6349
+P087,Paper 3,Stationery,Paper,6152
+P088,Highlighter 1,Stationery,Highlighter,3156
+P089,Highlighter 2,Stationery,Highlighter,7403
+P090,Highlighter 3,Stationery,Highlighter,831
